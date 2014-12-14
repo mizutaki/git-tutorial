@@ -4,3 +4,4 @@ Hello-World
 
  - feature-A
  - fixB
+ - feature-C
